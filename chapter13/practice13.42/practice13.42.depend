@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1540477567 source:d:\cc++\c++ primer\chapter13\strvec.cpp
+	"StrVec.h"
+
+1540477135 d:\cc++\c++ primer\chapter13\strvec.h
+	<iostream>
+	<string>
+	<algorithm>
+	<memory>
+	<utility>
+	<initializer_list>
+
+1540566088 source:d:\cc++\c++ primer\chapter13\practice13.42.cpp
+	"practice13.42.h"
+
+1540566352 d:\cc++\c++ primer\chapter13\practice13.42.h
+	<iostream>
+	<map>
+	<set>
+	<vector>
+	<fstream>
+	<string>
+	<memory>
+	<algorithm>
+	<sstream>
+	"StrVec.h"
+

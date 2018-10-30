@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537260457 source:e:\cc++\c++ primer\chapter13\13.4¿½±´¿ØÖÆ\main.cpp
+	<iostream>
+	"ex13_34_36_37.h"
+
+1537260392 e:\cc++\c++ primer\chapter13\13.4¿½±´¿ØÖÆ\ex13_34_36_37.h
+	<string>
+	<set>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537163865 source:e:\cc++\c++ primer\chapter13\13.31\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<ctime>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1527298529 source:e:\cc++\c++ primer\chapter12\practice12.32\practice12.32\main.cpp
+	<iostream>
+	"practice12.32.h"
+
+1527298135 source:e:\cc++\c++ primer\chapter12\practice12.32\practice12.32\practice12.22.cpp
+	<fstream>
+	"practice12.22.h"
+
+1522028190 e:\cc++\c++ primer\chapter12\practice12.32\practice12.32\practice12.22.h
+	<iostream>
+	<memory>
+	<string>
+	<vector>
+
+1527298477 source:e:\cc++\c++ primer\chapter12\practice12.32\practice12.32\practice12.32.cpp
+	"practice12.32.h"
+
+1527468683 e:\cc++\c++ primer\chapter12\practice12.32\practice12.32\practice12.32.h
+	"practice12.22.h"
+	<iostream>
+	<map>
+	<set>
+	<vector>
+	<fstream>
+	<string>
+	<memory>
+	<algorithm>
+	<sstream>
+	<iterator>
+

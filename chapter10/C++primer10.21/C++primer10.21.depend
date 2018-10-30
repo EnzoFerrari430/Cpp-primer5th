@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513668070 source:e:\cc++\c++ primer\chapter10\c++primer10.21\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<numeric>
+
