@@ -8,6 +8,9 @@ win7 win10（我在公司机器和自己的机器上都有写）
 
 IDE:
 codeblocks16.02+（公司机器和我自己机器上版本有所不同但问题不大）勾选  std=C++11（这个一定要起来）
+visual studio 2015
+.cbp结尾的文件请用codeblocks打开
+.sln结尾的文件请用visual studio打开
 
 参考资料:
 中文讨论区
