@@ -80,7 +80,7 @@ int main()
 {
     std::string sFile("D:\\CC++\\C++ primer\\chapter12\\12-27.txt");
     std::ifstream in(sFile);
-    //TextQuery Tq(in);
+    TextQuery Tq(in);
     //print(std::cout,Tq.query("you"));
     runQueries(in);
 

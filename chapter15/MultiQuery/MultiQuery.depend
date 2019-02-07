@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1544922785 source:d:\cc++\c++primer\chapter15\multiquery\main.cpp
+	<iostream>
+	"Query_base.h"
+
+1544535987 source:d:\cc++\c++primer\chapter15\multiquery\12-3-2textquery.cpp
+	"12-3-2TextQuery.h"
+
+1544926191 d:\cc++\c++primer\chapter15\multiquery\12-3-2textquery.h
+	<iostream>
+	<fstream>
+	<map>
+	<memory>
+	<algorithm>
+	<set>
+	<string>
+	<vector>
+	<sstream>
+
+1544923107 d:\cc++\c++primer\chapter15\multiquery\query_base.h
+	"12-3-2TextQuery.h"
+	<iterator>
+
+1544923105 source:d:\cc++\c++primer\chapter15\multiquery\query_base.cpp
+	"Query_base.h"
+

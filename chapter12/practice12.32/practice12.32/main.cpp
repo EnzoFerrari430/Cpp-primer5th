@@ -32,9 +32,14 @@ using namespace std;
 
 int main()
 {
-    string file("E:\\CC++\\C++ primer\\chapter12\\12-27.txt");
+    string file("D:\\CC++\\C++primer\\chapter12\\12-27.txt");
     //cout<<file<<endl;
     ifstream in(file);
+    string s;
+//    while(getline(in,s))
+//    {
+//        cout<<s<<endl;
+//    }
     runQueries(in);
     return 0;
 }

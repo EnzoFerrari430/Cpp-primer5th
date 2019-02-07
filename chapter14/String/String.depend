@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1542724414 source:d:\cc++\c++primer\chapter14\string\string.cpp
+	"String.h"
+	<algorithm>
+	<iostream>
+
+1542806121 d:\cc++\c++primer\chapter14\string\string.h
+	<memory>
+	<iostream>
+
+1542724187 source:d:\cc++\c++primer\chapter14\string\main.cpp
+	<iostream>
+	"String.h"
+

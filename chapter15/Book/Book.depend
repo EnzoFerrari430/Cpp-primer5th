@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1544013389 source:d:\cc++\c++primer\chapter15\book\bulk_quote.cpp
+	"Bulk_quote.h"
+
+1544366471 d:\cc++\c++primer\chapter15\book\bulk_quote.h
+	"Quote.h"
+
+1544366357 d:\cc++\c++primer\chapter15\book\quote.h
+	<string>
+	<iostream>
+
+1544443640 source:d:\cc++\c++primer\chapter15\book\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	"Bulk_quote.h"
+	"Tiny_quote.h"
+	"Basket.h"
+	"GlobalFun.h"
+
+1544258750 d:\cc++\c++primer\chapter15\book\tiny_quote.h
+	"Quote.h"
+
+1543931205 source:d:\cc++\c++primer\chapter15\book\tiny_quote.cpp
+	"Tiny_quote.h"
+
+1543930807 source:d:\cc++\c++primer\chapter15\book\quote.cpp
+	"Quote.h"
+
+1544010306 d:\cc++\c++primer\chapter15\book\disc_quote.h
+	"Quote.h"
+
+1544366694 d:\cc++\c++primer\chapter15\book\basket.h
+	<memory>
+	<set>
+	<ostream>
+	"Quote.h"
+
+1544363639 source:d:\cc++\c++primer\chapter15\book\basket.cpp
+	"Basket.h"
+	"GlobalFun.h"
+
+1544363679 d:\cc++\c++primer\chapter15\book\globalfun.h
+	<ostream>
+	"Quote.h"
+

@@ -29,3 +29,33 @@
 	<sstream>
 	<iterator>
 
+1527298136 source:d:\cc++\c++primer\chapter12\practice12.32\practice12.32\practice12.22.cpp
+	<fstream>
+	"practice12.22.h"
+
+1522028192 d:\cc++\c++primer\chapter12\practice12.32\practice12.32\practice12.22.h
+	<iostream>
+	<memory>
+	<string>
+	<vector>
+
+1527298478 source:d:\cc++\c++primer\chapter12\practice12.32\practice12.32\practice12.32.cpp
+	"practice12.32.h"
+
+1527468684 d:\cc++\c++primer\chapter12\practice12.32\practice12.32\practice12.32.h
+	"practice12.22.h"
+	<iostream>
+	<map>
+	<set>
+	<vector>
+	<fstream>
+	<string>
+	<memory>
+	<algorithm>
+	<sstream>
+	<iterator>
+
+1546214059 source:d:\cc++\c++primer\chapter12\practice12.32\practice12.32\main.cpp
+	<iostream>
+	"practice12.32.h"
+

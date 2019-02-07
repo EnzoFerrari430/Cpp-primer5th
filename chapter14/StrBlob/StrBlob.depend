@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542893039 source:d:\cc++\c++primer\chapter14\strblob\strblob.cpp
+	"StrBlob.h"
+
+1542892803 d:\cc++\c++primer\chapter14\strblob\strblob.h
+	<string>
+	<vector>
+	<memory>
+	<algorithm>
+	<initializer_list>
+
+1542723144 source:d:\cc++\c++primer\chapter14\strblob\main.cpp
+	<iostream>
+	<fstream>
+	"StrBlob.h"
+

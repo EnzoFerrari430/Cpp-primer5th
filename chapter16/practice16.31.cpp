@@ -1,0 +1,9 @@
+/*
+shared_ptr是运行时绑定删除器，
+unique_ptr则是编译时绑定删除器。
+unique_ptr有2个模板参数。其中一个就是删除器类型。
+因此删除器类型是unique_ptr类型的一部分，
+这样删除器就可以直接保存在unique_ptr对象中。
+这种方式unique_ptr避免了间接调用删除器的运行时开销。
+而编译器还可以将自己定义的删除器，如DebugDelete编译为内联形式
+*/

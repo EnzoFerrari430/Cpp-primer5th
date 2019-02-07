@@ -67,7 +67,7 @@ void runQueries(ifstream &infile)
 
 int main()
 {
-    string file("D:\\CC++\\C++ primer\\chapter12\\12-27.txt");
+    string file("D:\\CC++\\C++primer\\chapter12\\12-27.txt");
     //cout<<file<<endl;
     ifstream in(file);
     runQueries(in);

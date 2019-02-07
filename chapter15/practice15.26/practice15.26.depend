@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544332541 source:d:\cc++\c++primer\chapter15\practice15.26\bulk_quote.cpp
+	"Bulk_quote.h"
+
+1544331511 d:\cc++\c++primer\chapter15\practice15.26\bulk_quote.h
+	"Quote.h"
+
+1544329721 d:\cc++\c++primer\chapter15\practice15.26\quote.h
+	<string>
+	<iostream>
+
+1544329664 source:d:\cc++\c++primer\chapter15\practice15.26\main.cpp
+	<iostream>
+	"Quote.h"
+
+1544331467 source:d:\cc++\c++primer\chapter15\practice15.26\quote.cpp
+	"Quote.h"
+

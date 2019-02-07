@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542721069 source:d:\cc++\c++primer\chapter14\mydate\main.cpp
+	<iostream>
+	"Mydate.h"
+
+1542720852 d:\cc++\c++primer\chapter14\mydate\mydate.h
+	<string>
+	<iostream>
+

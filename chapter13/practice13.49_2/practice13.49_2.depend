@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542031493 source:d:\cc++\c++primer\chapter13\practice13.49_2\string.cpp
+	"String.h"
+	<algorithm>
+	<iostream>
+
+1542031152 d:\cc++\c++primer\chapter13\practice13.49_2\string.h
+	<iostream>
+	<memory>
+
+1542032005 source:d:\cc++\c++primer\chapter13\practice13.49_2\main.cpp
+	<iostream>
+	<vector>
+	"String.h"
+	<algorithm>
+

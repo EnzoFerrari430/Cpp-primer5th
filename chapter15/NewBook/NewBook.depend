@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1543930807 source:d:\cc++\c++primer\chapter15\newbook\quote.cpp
+	"Quote.h"
+
+1544273430 d:\cc++\c++primer\chapter15\newbook\quote.h
+	<string>
+	<iostream>
+
+1544014506 source:d:\cc++\c++primer\chapter15\newbook\tiny_quote.cpp
+	"Tiny_quote.h"
+
+1544014423 d:\cc++\c++primer\chapter15\newbook\tiny_quote.h
+	"Disc_quote.h"
+
+1544103664 source:d:\cc++\c++primer\chapter15\newbook\main.cpp
+	<iostream>
+	"Bulk_quote.h"
+	"Tiny_quote.h"
+
+1544335873 d:\cc++\c++primer\chapter15\newbook\bulk_quote.h
+	"Disc_quote.h"
+
+1544273625 d:\cc++\c++primer\chapter15\newbook\disc_quote.h
+	"Quote.h"
+
+1544335766 source:d:\cc++\c++primer\chapter15\newbook\bulk_quote.cpp
+	"Bulk_quote.h"
+

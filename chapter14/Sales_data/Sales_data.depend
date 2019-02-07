@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542803101 source:d:\cc++\c++primer\chapter14\sales_data\main.cpp
+	<iostream>
+	"Sales_data.h"
+
+1542802038 d:\cc++\c++primer\chapter14\sales_data\sales_data.h
+	<iostream>
+	<string>
+
+1542803076 source:d:\cc++\c++primer\chapter14\sales_data\sales_data.cpp
+	"Sales_data.h"
+

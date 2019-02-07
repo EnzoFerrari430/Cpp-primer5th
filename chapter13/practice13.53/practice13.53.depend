@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542114853 source:d:\cc++\c++primer\chapter13\practice13.53\hasptr.cpp
+	"HasPtr.h"
+
+1542112340 d:\cc++\c++primer\chapter13\practice13.53\hasptr.h
+	<string>
+	<iostream>
+
+1542114845 source:d:\cc++\c++primer\chapter13\practice13.53\main.cpp
+	<iostream>
+	"HasPtr.h"
+

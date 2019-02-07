@@ -3,20 +3,30 @@
 
 #include <memory>
 
-//×Ô¼º±àĞ´ÀàËÆstringÀà
 class String
 {
 public:
-    String();
-    String(char* pstr);
-
+    String():String(""){};
+    String(char* pstart,char *pend);
+    String(const char *);
+    String(const String&);
+    String& operator=(const String&);
 
 
     ~String();
+    void push_back();
+
+    const char *c_str() const {return elements;}
+    size_t size() const {return first_free - elements;}
+    size_t length() const {return first_free - elements;}
 
 private:
+    std::pair<char*,char*> alloc_n_copy(const char*,const char*);
+    void range_initializer(const char*,const char*);  //ç”¨ä¸€ä¸ªèŒƒå›´çš„å­—ç¬¦ä¸²åˆå§‹åŒ–
+    void free();
+private:
     char* elements;
-    char* end;
+    char* first_free;
 
     std::allocator<char> alloc;
 };

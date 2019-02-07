@@ -16,7 +16,7 @@ public:
     //类型vector的一些接口函数
     std::string* begin()const{return elements;}  //stl的特性
     std::string* end()const{return first_free;}
-    //!!!C++中const 引用的是对象时只能访问该对象的const 函数，因为其他函数有可能会修改该对象的成员，编译器为了避免该类事情发生，会认为调用非const函数是错误的。
+    // !!!C++中const 引用的是对象时只能访问该对象的const 函数，因为其他函数有可能会修改该对象的成员，编译器为了避免该类事情发生，会认为调用非const函数是错误的。
     void push_back(const std::string&);
     size_t size() const {return first_free - elements;}  //注意！！:2个同类型，指向同一个数组的指针相减，结果并不是两个指针数值上的差，而是把这个差除以指针指向类型的大小的结果。
     size_t capacity() const {return cap - elements;}  //返回容量
